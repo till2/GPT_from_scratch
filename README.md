@@ -4,7 +4,9 @@
 
 ###### <div align="center">![attention-please-d7217f13d3](https://user-images.githubusercontent.com/89709351/220173510-65ff6b08-55fc-41b2-8c4b-9b3429f638ef.jpg)</div>
 
+
 -------------------------------
+
 
 ### Notes
 
@@ -14,9 +16,7 @@ The implementation is based on the ["Attention Is All You Need"](https://arxiv.o
 
 ### Data
 
-The transcribed subtitles for the first 325 episodes of the Lex Fridman Podcast are from Andrej Karpathy's [Lexicap project](https://karpathy.ai/lexicap/index.html), which used [OpenAI's whisper model](https://github.com/openai/whisper) to transcribe them.
-Let's look at one sample episode, ep.299 with Demis Hassabis.
-The subtitles are stored in the video text track (vtt) format and look like this:
+The transcribed subtitles for the first 325 episodes of the Lex Fridman Podcast are from Andrej Karpathy's [Lexicap project](https://karpathy.ai/lexicap/index.html), which used [OpenAI's whisper model](https://github.com/openai/whisper) to transcribe them. I cleaned the data with some regular expressions to get one big corpus of text for training the transformer model.
 
 
 ### References
