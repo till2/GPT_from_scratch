@@ -1,0 +1,116 @@
+ remember George Washington? You know how he died? Well meaning physicians bled him to death,
+ and this was the most important patient in the country, maybe in the history of the country,
+ and we bled him to death trying to help him. So when you're actually inflating the money supply
+ at 7% but you're calling it 2% because you want to help the economy, you're literally bleeding
+ the free market to death. But the sad fact is George Washington went along with it because he
+ thought that they were going to do him good, and the majority of the society, most companies,
+ most conventional thinkers, you know, the working class, they go along with this because they think
+ that someone has their best interest of mind, and the people that are bleeding them to death
+ believe, they believe that prescription because their mental models are just so defective.
+ The following is a conversation with Michael Saylor, one of the most prominent and brilliant
+ Bitcoin proponents in the world. He is the CEO of MicroStrategy, founder of Saylor Academy,
+ graduate of MIT, and Michael is one of the most fascinating and rigorous thinkers I've ever gotten
+ a chance to explore ideas with. He can effortlessly zoom out to the big perspectives of human
+ civilization and human history, and zoom back in to the technical details of blockchains, markets,
+ governments, and financial systems. This is the Lex Friedman podcast. To support it,
+ please check out our sponsors in the description. And now, dear friends, here's Michael Saylor.
+ Here's Michael Saylor. Let's start with a big question of truth and wisdom. When advanced humans
+ or aliens or AI systems, let's say five to ten centuries from now, look back at Earth
+ on this early 21st century, how much do you think they would say we understood about
+ money and economics, or even about engineering, science, life, death, meaning, intelligence,
+ consciousness, all the big interesting questions?
+ I think they would probably give us a
+ B minus on engineering, on all the engineering things, the hard sciences.
+ A passing grade.
+ Like, we're doing okay. We're working our way through rockets and jets and electric cars and
+ an electricity transport systems and nuclear power and space flight and the like. And if you look at
+ the walls that grace the great court at MIT, it's full of all the great thinkers and they're all
+ pretty admirable. If you could be with Newton or Gauss or Madame Curie or Einstein, you would
+ respect them. I would say they'd give us like a D minus on economics, like an F plus or a D minus.
+ You have an optimistic vision. First of all, optimistic vision of engineering,
+ because everybody you've listed, not everybody, but most people you've listed is just over the
+ past couple of centuries. And maybe it stretches a little farther back, but mostly all the cool
+ stuff we've done in engineering is the past couple of centuries.
+ I mean, Archimedes had his virtues. I studied the history of science at MIT and I also studied
+ aerospace engineering. And so I clearly have a bias in favor of science. And if I look at the
+ past 10,000 years and I consider all of the philosophy and the politics and their impact
+ on the human condition, I think it's a wash for every politician that came up with a good idea,
+ another politician came up with a bad idea. And it's not clear to me that most of the
+ political and philosophical contributions to the human race and the human conditions
+ have advanced so much. I mean, we're still taking guidance and admiring Aristotle and
+ Plato and Seneca and the like. And on the other hand, if you think about what has made the human
+ condition better, fire, water, harnessing of wind energy, try to row across an ocean, right?
+ Not easy.
+ And for people who are just listening or watching, there's a beautiful sexy ship from
+ 16th, 17th century.
+ This is a 19th century handmade model of a 17th century sailing ship, which is of the type that
+ the Dutch East India's company used to sail the world and trade. So that was made, the original
+ was made sometime in the 1600s. And then this model is made in the 19th century by individuals.
+ So both the model and the ship itself is engineering at its best. And just imagine,
+ just like rockets flying out to space, how much hope this filled people with,
+ exploring the unknown, going into the mystery, both the entrepreneurs and the business people
+ and the engineers and just humans. What's out there? What's out there to be discovered?
+ Yeah, the metaphor of human beings leaving shore or sailing across the horizon,
+ risking their lives in pursuit of a better life is an incredibly powerful one.
+ In 1900, I suppose the average life expectancy is 50. During the Revolutionary War,
+ while our founding fathers were fighting to establish life, liberty, pursuit of happiness,
+ the Constitution, average life expectancy is like 32, somewhere between 32 and 36.
+ So all the sound and the fury doesn't make you live past 32, but what does, right? Antibiotics.
+ Conquest of infectious diseases. If we understand the science of infectious disease, sterilizing
+ a knife and harnessing antibiotics gets you from 50 to 70. And that happened fast, right? That
+ happens from 1900 to 1950 or something like that. And I think if you look at the human condition,
+ you ever get on one of those rowing machines where they actually keep track of your watts output when
+ you're on that? Yeah. It's like 200 is a lot. Okay, 200 is a lot. So a kilowatt hour is like all
+ the energy that a human, a trained athlete can deliver in a day. And probably not 1% of the
+ people in the world could deliver a kilowatt hour in a day. And the commercial value of a kilowatt
+ hour, the retail value is 11 cents today. And the wholesale value is 2 cents. And so you have to look
+ at the contribution of politicians and philosophers and economists to the human condition. And it's
+ like at best a wash one way or the other. And then if you look at the contribution of John D.
+ Rockefeller when he delivered you a barrel of oil and the energy in oil, liquid energy, or the
+ contribution of Tesla as we deliver electricity. And what's the impact on the human condition if I
+ have electric power, if I have chemical power, if I have wind energy, if I can actually set up a
+ reservoir, create a dam, spend a turbine, and generate energy from a hydraulic source?
+ That's extraordinary, right? And so our ability to cross the ocean, our ability to grow food,
+ our ability to live, it's technology that gets the human race from a brutal life where life
+ expectancy is 30 to a world where life expectancy is 80.
+ You gave a D minus to the economists. So are they too like the politicians a wash
+ in terms of there's good ideas and bad ideas and that tiny delta between good and bad?
+ Is how you squeak past the F plus onto the D minus territory?
+ I think most economic ideas are bad ideas.
+ Most.
+ You know, like take us back to MIT and you want to solve a fluid dynamics problem. Like design
+ the shape of the hull of that ship, or you want to design an airfoil, a wing, or if you want to
+ design an engine or a nozzle in a rocket ship, you wouldn't do it with simple arithmetic.
+ You wouldn't do it with a scaler. There's not a single number, right? It's vector math.
+ You know, computational fluid dynamics is n dimensional, higher level math,
+ you know, complicated stuff. So when an economist says the inflation rate is
+ 2%, that's a scaler. And when an economist says it's not a problem to print more money,
+ because the velocity of the money is very low, monetary velocity is low, that's another scaler.
+ Okay, so the truth of the matter is inflation is not a scaler. Inflation is an n dimensional vector.
+ Money velocity is not a scaler.
+ The saying, what's the velocity of money? Oh, it's slow or it's fast. It ignores the question of
+ what medium is the money moving through. And the same way that, you know, what's the speed of sound?
+ Okay, well, what is sound, right? Sound, you know, sound is a compression wave. It's energy
+ moving through a medium, but the speed is different. So for example, the speed of sound through air is
+ different than the speed of sound through water. And sound moves faster through water,
+ it moves faster through a solid, and it moves faster to a stiffer solid. So there isn't one.
+ What is the fundamental problem with the way economists reduce the world down to a model?
+ Is it too simple? Or is it just even the first generation?
+ I think that the fundamental problem is, if you see the world as a scaler, you simply pick
+ the one number which is, which supports whatever you want to do, and you ignore the universe of
+ other consequences from your behavior. In general, I don't know if you've heard of the
+ Eric Weisen has been talking about this with gauge theory. So different kinds of approaches
+ from the physics world, from the mathematical world to extend past this scaler view of economics.
+ So gauge theory is one way that comes from physics. Do you find that a way of exploring economics
+ interesting? So outside of cryptocurrency, outside of the actual technology,
+ and so on, just analysis of how economics works. Do you find that interesting?
+ Yeah, I think that if we're going to want to really make any scientific progress in economics,
+ we have to apply much, much more computationally intensive and richer forms of mathematics.
+ So simulation, perhaps, or?
+ Yeah, you know, when I was at MIT, I studied system dynamics at MIT.
+ You know, when I was at MIT, I studied system dynamics. You know, they taught it at the Sloan
+ School. It was developed by Jay Forrester, who was an extraordinary computer scientist.
+ And when we created models of economic behavior, they were all multi dimensional nonlinear models.
+ So if you want to describe how anything works in the real world, you have to start with the concept
+ of feedback. If I double the price of something, demand will fall, and attempts to create supply
+ will increase, and
