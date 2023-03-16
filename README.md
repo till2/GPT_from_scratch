@@ -28,7 +28,7 @@ tensor([360, 237, 153,  61, 158,  61, 158, 253, 194, 186, 280,  53,  75, 169,
 ```
     
 ```py
-len("I think this is going to take a long time.") # 42
+len("I think this is going to be awesome.") # 36
 len(tokens) # 17
 
 decode(tokens)
