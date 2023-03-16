@@ -23,6 +23,7 @@ tokens = encode("I think this is going to be awesome.")
 ```
 
 ```txt
+>>>
 tensor([360, 237, 153,  61, 158,  61, 158, 253, 194, 186, 280,  53,  75, 169,
          67, 183,  11], device='cuda:0')
 ```
@@ -35,6 +36,7 @@ decode(tokens)
 ```
 
 ```txt
+>>>
 "I think this is going to be awesome."
 ```
 
