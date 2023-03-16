@@ -11,6 +11,34 @@
 
 <div align="center"><img src="https://github.com/till2/GPT_from_scratch/blob/main/images/architecture.png?raw=true" width="830" height="900"/></div>
 
+### Byte pair encoding (BPE)
+
+The text is encoded with byte pair encoding (BPE) to get a vocabulary of 1,000 tokens. <br>
+The number of tokens after encoding is approx. 60% of the original text length.
+
+Here's an example of the encoding process:
+
+```py
+tokens = encode("I think this is going to be awesome.")
+```
+
+```txt
+tensor([360, 237, 153,  61, 158,  61, 158, 253, 194, 186, 280,  53,  75, 169,
+         67, 183,  11], device='cuda:0')
+```
+    
+```py
+len("I think this is going to take a long time.") # 42
+len(tokens) # 17
+
+decode(tokens)
+```
+
+```txt
+"I think this is going to be awesome."
+```
+
+
 ### Inference
 
 It's not very good yet, but can mimick some english.
@@ -48,7 +76,7 @@ You can find my notes on the implementation details here: [🤖 Transformer blog
 The implementation is based on the ["Attention Is All You Need"](https://arxiv.org/pdf/1706.03762.pdf) paper and the ["Let's build GPT"](https://youtu.be/kCc8FmEb1nY) tutorial by Andrej Karpathy.
 
 
-### Data
+### Lex Fridman Podcast Dataset
 
 The transcribed subtitles for the first 325 episodes of the Lex Fridman Podcast are from Andrej Karpathy's [Lexicap project](https://karpathy.ai/lexicap/index.html), which used [OpenAI's whisper model](https://github.com/openai/whisper) to transcribe them. I cleaned the data with some regular expressions to get one big corpus of text for training the transformer model.
 
